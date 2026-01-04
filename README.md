@@ -23,9 +23,7 @@ End-to-end Healthcare analytics project using MySQL, Excel, Power BI, and Tablea
 
 -Tableau – Advanced visual analytics and storytelling
 
-## KPI Snapshot (Top Cards)
-
-Insights:
+## KPI Snapshot 
 
 -10K Total Patients indicate a high-volume healthcare facility.
 
@@ -35,7 +33,7 @@ Insights:
 
 -33.5% Abnormal Lab Results signals moderate clinical risk requiring attention.
 
--Avg Patient Age ~49 years suggests a predominantly adult and middle-aged population.
+-Avg Patient Age 49 years suggests a predominantly adult and middle-aged population.
 
 -₹25.4M Total Treatment Cost highlights significant operational expenditure.
 
