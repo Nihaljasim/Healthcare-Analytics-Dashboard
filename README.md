@@ -95,6 +95,7 @@ Insights:
 ## Dashboard (power Bi)
 ### page 1
 <img width="1112" height="623" alt="H-Dashboard" src="https://github.com/user-attachments/assets/43677bf5-e44b-475f-9b77-9bf907278060" />
+
 ### page 2
 <img width="1124" height="622" alt="H-Dashboard 2" src="https://github.com/user-attachments/assets/d1f77bdf-103e-4ff2-b08c-92691baf9aaa" />
 
@@ -102,6 +103,7 @@ Insights:
 ## Dashboard (Tableau)
 ### page 1
 <img width="1659" height="804" alt="Screenshot 2026-01-04 192142" src="https://github.com/user-attachments/assets/5288032b-d0cd-43b0-a16e-e87710972cec" />
+
 ### page 2
 <img width="1655" height="798" alt="Screenshot 2026-01-04 192202" src="https://github.com/user-attachments/assets/bb32e4b6-1b15-48f5-bbcd-29c6aad1c62f" />
 
